@@ -3,13 +3,13 @@ Sistem Informasi Alumni berbasis web dengan framework codeigniter.
 
 Untuk Login Administrator : 
 
-> username = admin@admin.com,
+> username = annisagf15@gmail.com,
 
-> password = password
+> password = 1D230710
 
 Untuk Login Member :
 
-> username = user1@user.com,
+> username = fafaiz@gmail.com,
 
-> password = password
+> password = fafaiz15
 
